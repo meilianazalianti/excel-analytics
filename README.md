@@ -1,5 +1,9 @@
 # ☕ Coffee Sales Analysis
 
+<p align="center">
+  <img src="https://github.com/meilianazalianti/excel-analytics/blob/main/Dashboard_coffee.png?raw=true" alt="Dashboard Coffee" width="600"/>
+</p>
+
 ##  Project Overview
 This project analyzes a fictional coffee order dataset using Microsoft Excel to understand customer behavior, product sales, and geographic performance. The end result is an interactive sales dashboard highlighting key business insights.
 
